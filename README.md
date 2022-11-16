@@ -2,7 +2,7 @@
 
 Welcome to EmailHoneyPot v1.0!
 
-![alt text](https://github.com/frostydawg/EmailHoneyPot/guide_images/avatar.png)
+<img src="https://raw.githubusercontent.com/frostydawg/EmailHoneyPot/587c6ed1423e9ae8a475a53c93b397a51f4a6369/guide_images/avatar.png" title="" alt="alt text" width="415">
 
 Made by frostydawg
 
@@ -120,11 +120,11 @@ SES rules are set to accept any emails, so long as the domain is correct.
 
 They will then be forwarded into an S3 bucket created specifically for emails. You can view them by going to the S3 section of the AWS console
 
-![alt text](https://github.com/frostydawg/EmailHoneyPot/guide_images/s3.png)
+![alt text](https://raw.githubusercontent.com/frostydawg/EmailHoneyPot/587c6ed1423e9ae8a475a53c93b397a51f4a6369/guide_images/s3.png)
 
 You should see a bucket that has your selected domain name and ends with "-email-s3"
 
-![alt text](https://github.com/frostydawg/EmailHoneyPot/guide_images/email.png)
+![alt text](https://raw.githubusercontent.com/frostydawg/EmailHoneyPot/587c6ed1423e9ae8a475a53c93b397a51f4a6369/guide_images/email.png)
 
 You will find a folder titled "Emails" and then there should be emails within that folder anytime someone sends an email to any user @yourdomain
 
