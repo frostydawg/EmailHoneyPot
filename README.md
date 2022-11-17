@@ -20,7 +20,7 @@ It is highly recommended you create a new IAM user and NOT generate a key with y
 
 
 
-#Execution
+# Execution
 
 To start, please download dependencies. 
 
@@ -35,8 +35,11 @@ It will then prompt you for your AWS Access Key id and the secret access key.
 For default region, select "us-east-1" and for default output format select "json"
 
 AWS Access Key ID: your-access-key-id
+
 AWS Secret Access Key: your-secret-access-key
-Default region name: us-east-1 
+
+Default region name: us-east-1
+ 
 Default output format: json 
 
 
