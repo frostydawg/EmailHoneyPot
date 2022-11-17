@@ -30,14 +30,14 @@ chmod +x setup.sh
 
 This will install python3, python3-pip, boto3 and the aws cli
 
-It will then prompt your for your AWS Access Key id and the secret acces key.
+It will then prompt you for your AWS Access Key id and the secret access key.
 
-for default region, select "us-east-1" and for default output format select "json"
+For default region, select "us-east-1" and for default output format select "json"
 
-AWS Access Key ID []: your-access-key-di
-AWS Secret Access Key []: your-secret-access-key
-Default region name []: us-east-1 
-Default output format []: json 
+AWS Access Key ID: your-access-key-id
+AWS Secret Access Key: your-secret-access-key
+Default region name: us-east-1 
+Default output format: json 
 
 
 You are now ready to execute the email_honey_pot_deploy.py script!
